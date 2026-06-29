@@ -1,0 +1,52 @@
+{
+  "duas": [
+    {
+      "id": 1,
+      "bangla": "বিসমিল্লাহির রাহমানির রাহিম",
+      "transliteration": "Bismillahir Rahmanir Rahim",
+      "translation": "In the name of Allah, the Most Gracious, the Most Merciful"
+    },
+    {
+      "id": 2,
+      "bangla": "সুবহানাল্লাহি ওয়া বিহামদিহি",
+      "transliteration": "Subhanallahi wa bihamdihi",
+      "translation": "Glory be to Allah and praise be to Him"
+    },
+    {
+      "id": 3,
+      "bangla": "আল্লাহুম্মা আহদিনা ফিমান হাদাইত",
+      "transliteration": "Allahumma ahidina fiman hadait",
+      "translation": "O Allah, guide us among those You have guided"
+    },
+    {
+      "id": 4,
+      "bangla": "রাব্বানা আতিনা ফিদ দুনিয়া হাসানা",
+      "transliteration": "Rabbana atina fid-dunya hasanah",
+      "translation": "Our Lord, give us good in this world and good in the Hereafter"
+    },
+    {
+      "id": 5,
+      "bangla": "আল্লাহুম্মা ইন্নি আস'আলুকাল আফিয়া",
+      "transliteration": "Allahumma inni as'aluka al-afia",
+      "translation": "O Allah, I ask You for good health"
+    },
+    {
+      "id": 6,
+      "bangla": "লা ইলাহা ইল্লাল্লাহু মুহাম্মাদুর রাসুলুল্লাহ",
+      "transliteration": "La ilaha illallah, Muhammadur Rasulullah",
+      "translation": "There is no god but Allah, and Muhammad is the Messenger of Allah"
+    },
+    {
+      "id": 7,
+      "bangla": "সালাতু আলান নাবী",
+      "transliteration": "Salatu alan-Nabi",
+      "translation": "Peace and blessings be upon the Prophet"
+    },
+    {
+      "id": 8,
+      "bangla": "আল্লাহুম্মা আগফিরলি জুনুবি ওয়ারহামনি",
+      "transliteration": "Allahumma aghfir li junubi warhamni",
+      "translation": "O Allah, forgive my sins and have mercy on me"
+    }
+  ]
+}
