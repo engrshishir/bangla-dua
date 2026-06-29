@@ -15,7 +15,7 @@
     {
       "id": 3,
       "bangla": "আল্লাহুম্মা আহদিনা ফিমান হাদাইত",
-      "transliteration": "Allahumma ahidina fiman hadait",
+      "transliteration": "Allahumma ahdina fiman hadait",
       "translation": "হে আল্লাহ! আপনি যাদেরকে পথ প্রদর্শন করেছেন, তাদের মধ্যে আমাকেও পথ প্রদর্শন করুন"
     },
     {
@@ -26,307 +26,307 @@
     },
     {
       "id": 5,
-      "bangla": "আল্লাহুম্মা ইন্নি আস'আলুকাল আফিয়া",
-      "transliteration": "Allahumma inni as'aluka al-afia",
+      "bangla": "আল্লাহুম্মা ইন্নি আসআলুকাল আফিয়া",
+      "transliteration": "Allahumma inni as'alukal afia",
       "translation": "হে আল্লাহ! নিশ্চয়ই আমি আপনার কাছে সুস্থতা প্রার্থনা করি"
     },
     {
       "id": 6,
       "bangla": "লা ইলাহা ইল্লাল্লাহু মুহাম্মাদুর রাসুলুল্লাহ",
-      "transliteration": "La ilaha illallah, Muhammadur Rasulullah",
+      "transliteration": "La ilaha illallahu Muhammadur Rasulullah",
       "translation": "আল্লাহ ছাড়া কোনো সত্য ইলাহ নেই এবং মুহাম্মদ (সা.) আল্লাহর রাসূল"
     },
     {
       "id": 7,
-      "bangla": "সালাতু আলান নাবী",
-      "transliteration": "Salatu alan-Nabi",
-      "translation": "আল্লাহর রহমত ও শান্তি বর্ষিত হোক নবীজীর উপর"
+      "bangla": "আল্লাহুম্মা সাল্লি আলা মুহাম্মাদ",
+      "transliteration": "Allahumma salli ala Muhammad",
+      "translation": "হে আল্লাহ! মুহাম্মদের উপর রহমত বর্ষণ করুন"
     },
     {
       "id": 8,
       "bangla": "আল্লাহুম্মা আগফিরলি জুনুবি ওয়ারহামনি",
-      "transliteration": "Allahumma aghfir li junubi warhamni",
+      "transliteration": "Allahumma agfirli junubi warhamni",
       "translation": "হে আল্লাহ! আপনি আমার গুনাহ মাফ করুন এবং আমার প্রতি দয়া করুন"
     },
     {
       "id": 9,
-      "bangla": "হে আল্লাহ, আমাকে তোমার হালালেই যথেষ্ট কর, যাতে আমি হারাম থেকে মুক্ত থাকি",
+      "bangla": "আল্লাহুম্মা ইকফিনি বিহালালিকা আঁ হারামিকা",
       "transliteration": "Allahumma ikfini bihalalika 'an haramika",
       "translation": "হে আল্লাহ! আমাকে আপনার হালাল দ্বারাই যথেষ্ট করুন, যাতে আমি হারাম থেকে মুক্ত থাকি"
     },
     {
       "id": 10,
-      "bangla": "হে আল্লাহ, আমাকে হালাল ও পবিত্র ব্যবস্থা দিয়ে দান কর",
-      "transliteration": "Allahumma arzuqni rizqan halal-an tayyiban",
+      "bangla": "আল্লাহুম্মা আরজুকনি রিজকান হালালান তাইয়্যিবান",
+      "transliteration": "Allahumma arzuqni rizqan halalan tayyiban",
       "translation": "হে আল্লাহ! আপনি আমাকে হালাল ও পবিত্র রিজিক দান করুন"
     },
     {
       "id": 11,
-      "bangla": "হে আল্লাহ, আমি তোমার কাছে দরিদ্রতা থেকে রক্ষা চাই",
-      "transliteration": "Allahumma inni a'udhu bika min al-faqr",
+      "bangla": "আল্লাহুম্মা ইন্নি আউযুবিকা মিনাল ফাকরি",
+      "transliteration": "Allahumma inni a'udhu bika minal faqr",
       "translation": "হে আল্লাহ! আমি আপনার কাছে দারিদ্র্য থেকে রক্ষা চাই"
     },
     {
       "id": 12,
-      "bangla": "হে আল্লাহ, আমার জন্য তোমার রিজ্কের দরজাগুলো খুলে দাও",
+      "bangla": "আল্লাহুম্মা ইফতাহ লি আবওয়াবা রিজকিক",
       "transliteration": "Allahumma iftah li abwaba rizqik",
       "translation": "হে আল্লাহ! আমার জন্য আপনার রিজিকের দরজাসমূহ খুলে দিন"
     },
     {
       "id": 13,
-      "bangla": "হে আল্লাহ, আমাকে এমন স্থানে থেকে রিজিক দাও যেখানে আমি ভাবিও না",
+      "bangla": "আল্লাহুম্মা আরজুকনি মিন হাইসু লা আহতাসিব",
       "transliteration": "Allahumma arzuqni min haythu la ahtasib",
       "translation": "হে আল্লাহ! আপনি আমাকে এমন জায়গা থেকে রিজিক দিন যার কল্পনাও আমি করি না"
     },
     {
       "id": 14,
-      "bangla": "হে আল্লাহ, তোমার রিজিক আমাকে বঞ্চিত কোরো না",
+      "bangla": "আল্লাহুম্মা লা তাহরিমনি রিজকাক",
       "transliteration": "Allahumma la tuhrimni rizqak",
       "translation": "হে আল্লাহ! আপনি আমাকে আপনার রিজিক থেকে বঞ্চিত করবেন না"
     },
     {
       "id": 15,
-      "bangla": "হে আল্লাহ, তোমার হালালেই আমাকে সমৃদ্ধ কর এবং তোমার ফজলে অন্যের ওপর নির্ভরশীল করো না",
+      "bangla": "আল্লাহুম্মা আগনি বি হালালিকা আঁ হারামিকা ওয়া বিফাদলিকা আম্মান সিওয়াক",
       "transliteration": "Allahumma aghnini bihalalika 'an haramika wa bifadlika 'amman siwak",
       "translation": "হে আল্লাহ! আপনি আমাকে আপনার হালাল দ্বারা হেফাজত করুন এবং আপনার অনুগ্রহ দ্বারা অন্যদের থেকে অমুখাপেক্ষী করুন"
     },
     {
       "id": 16,
-      "bangla": "সুবহানাল্লাহি ওয়া বিহামদিন, সুবহানাল্লাহি আল-আজীম",
-      "transliteration": "SubhanAllahi wa bihamdihi, SubhanAllahi al-'Azim",
+      "bangla": "সুবহানাল্লাহি ওয়া বিহামদিহি সুবহানাল্লাহিল আজীম",
+      "transliteration": "SubhanAllahi wa bihamdihi SubhanAllahil Azim",
       "translation": "আল্লাহ পবিত্র ও তাঁর প্রশংসা, মহান আল্লাহ পবিত্র"
     },
     {
       "id": 17,
-      "bangla": "হে আমার প্রভু, আমার বুক প্রশস্ত কর এবং আমার কাম কাজ সহজ করে দাও",
+      "bangla": "রাব্বি ইশরাহ লি সাদরি ওয়া ইয়াসসির লি আমরি",
       "transliteration": "Rabbi ishrah li sadri wa yassir li amri",
       "translation": "হে আমার পালনকর্তা! আমার বক্ষ প্রশস্ত করুন এবং আমার কাজ সহজ করে দিন"
     },
     {
       "id": 18,
-      "bangla": "হে প্রভু, আমাকে জ্ঞান বাড়িয়ে দাও",
+      "bangla": "রাব্বি যিদনি ইলমা",
       "transliteration": "Rabbi zidni 'ilma",
       "translation": "হে আমার পালনকর্তা! আমাকে জ্ঞান বৃদ্ধি করুন"
     },
     {
       "id": 19,
-      "bangla": "হে আল্লাহ, আমি তোমার কাছে উপকারী জ্ঞান চাই",
+      "bangla": "আল্লাহুম্মা ইন্নি আসআলুকা ইলমান নাফিআন",
       "transliteration": "Allahumma inni as'aluka 'ilman nafi'an",
       "translation": "হে আল্লাহ! আমি আপনার কাছে উপকারী জ্ঞান প্রার্থনা করি"
     },
     {
       "id": 20,
-      "bangla": "হে আল্লাহ, আমাদের এমন জ্ঞান শিখাও যা আমাদের উপকারে আসে এবং যা শিখিয়েছ তা আমাদের উপকারে লাগাও",
+      "bangla": "আল্লাহুম্মা আল্লিমনা মা ইয়ানফাউনা ওয়ানফানা বিমা আল্লামতানা",
       "transliteration": "Allahumma 'allimna ma yanfa'una wa anfa'na bima 'allamtana",
       "translation": "হে আল্লাহ! আমাদের এমন জ্ঞান শিক্ষা দিন যা আমাদের উপকারে আসে এবং যা শিখিয়েছেন তা দ্বারা আমাদের উপকৃত করুন"
     },
     {
       "id": 21,
-      "bangla": "হে আল্লাহ, আমি তোমার কাছে ক্ষুধা ও দৈন্যতা থেকে রক্ষা চাই",
-      "transliteration": "Allahumma inni a'udhu bika min al-ju'i wal-hirman",
+      "bangla": "আল্লাহুম্মা ইন্নি আউযুবিকা মিনাল জুই ওয়াল হিরমান",
+      "transliteration": "Allahumma inni a'udhu bika minal ju'i wal hirman",
       "translation": "হে আল্লাহ! আমি আপনার কাছে ক্ষুধা ও বঞ্চনা থেকে রক্ষা চাই"
     },
     {
       "id": 22,
-      "bangla": "হে আল্লাহ, আমার জন্য বিপুল পরিমাণ রিজিক দাও",
+      "bangla": "আল্লাহুম্মা ওয়াফফির লি রিজকান ওয়াসিয়ান",
       "transliteration": "Allahumma waffir li rizqan wasi'an",
       "translation": "হে আল্লাহ! আপনি আমার জন্য প্রশস্ত ও প্রচুর রিজিকের ব্যবস্থা করুন"
     },
     {
       "id": 23,
-      "bangla": "হে আল্লাহ, তোমার দয়াবানিতার খাজানাগুলো আমার জন্য খুলে দাও",
-      "transliteration": "Allahumma iftah 'alayya khaza'in rahmatik",
+      "bangla": "আল্লাহুম্মা ইফতাহ আলাইয়্যা খাজায়িনা রাহমাতিক",
+      "transliteration": "Allahumma iftah 'alayya khaza'ina rahmatik",
       "translation": "হে আল্লাহ! আমার জন্য আপনার রহমতের ভাণ্ডারসমূহ খুলে দিন"
     },
     {
       "id": 24,
-      "bangla": "হে মহান রিযিক, আমাকে দান কর এবং এতে বরকত দাও",
-      "transliteration": "Ya Wasi' ar-rizq, arzuqni wa bil-barakah",
+      "bangla": "ইয়া ওয়াসিয়ার রিজকি আরজুকনি ওয়া বিল বারাকাহ",
+      "transliteration": "Ya Wasi'ar rizqi arzuqni wa bil barakah",
       "translation": "হে প্রশস্ত রিজিকদাতা! আমাকে রিজিক দিন এবং তাতে বরকত দিন"
     },
     {
       "id": 25,
-      "bangla": "হে আল্লাহ, আমার রিজিক হালাল ও বরকতময় কর",
-      "transliteration": "Allahumma ij'al rizqi halal-an mubarak-an",
+      "bangla": "আল্লাহুম্মা ইজআল রিজকি হালালান মুবারাকান",
+      "transliteration": "Allahumma ij'al rizqi halalan mubarakan",
       "translation": "হে আল্লাহ! আমার রিজিককে হালাল ও বরকতময় করুন"
     },
     {
       "id": 26,
-      "bangla": "হে আল্লাহ, আমাকে ধৈর্য্য এবং তোমার উপর ভরসা দাও",
-      "transliteration": "Allahumma arzuqni as-sabr wa al-i'timad 'alayk",
+      "bangla": "আল্লাহুম্মা আরজুকনিস সাবরা ওয়াল ইতিমাদা আলাইকা",
+      "transliteration": "Allahumma arzuqnis sabra wal i'timada 'alaik",
       "translation": "হে আল্লাহ! আমাকে ধৈর্য এবং আপনার উপর ভরসা দান করুন"
     },
     {
       "id": 27,
-      "bangla": "পর্যাপ্ত আল্লাহ, সবচেয়ে উত্তম সাহায্যকারী",
+      "bangla": "হাসবিয়াল্লাহু ওয়া নিমাল ওয়াকিল",
       "transliteration": "Hasbiyallahu wa ni'mal wakeel",
       "translation": "আমার জন্য আল্লাহই যথেষ্ট এবং তিনিই শ্রেষ্ঠ কর্মবিধায়ক"
     },
     {
       "id": 28,
-      "bangla": "হে আল্লাহ, তোমার বান্ধবতা মেনে চলার শক্তি দাও",
+      "bangla": "আল্লাহুম্মা আতিনি কুওয়াতান আলা তাআতিক",
       "transliteration": "Allahumma a'tini quwwatan 'ala ta'atik",
       "translation": "হে আল্লাহ! আমাকে আপনার আনুগত্য করার শক্তি দিন"
     },
     {
       "id": 29,
-      "bangla": "হে হৃদয় পরিণতকারী, আমার হৃদয় তোমার ধর্মে স্থির করো",
-      "transliteration": "Ya Muqallib al-qulub, thabbit qalbi 'ala dinik",
+      "bangla": "ইয়া মুকাল্লিবাল কুলুবি সাব্বিত কালবি আলা দিনিক",
+      "transliteration": "Ya Muqallibal qulubi sabbit qalbi 'ala dinik",
       "translation": "হে অন্তর পরিবর্তনকারী! আমার অন্তরকে আপনার দ্বীনের উপর স্থির রাখুন"
     },
     {
       "id": 30,
-      "bangla": "হে আল্লাহ, আমাকে উপকারী জ্ঞান এবং গ্রহণযোগ্য আমল দাও",
+      "bangla": "আল্লাহুম্মা আরজুকনি ইলমান নাফিআন ওয়া আমালান মুতাকাব্বালান",
       "transliteration": "Allahumma arzuqni 'ilman nafi'an wa 'amalan mutaqabbalan",
       "translation": "হে আল্লাহ! আমাকে উপকারী জ্ঞান ও কবুলযোগ্য আমল দান করুন"
     },
     {
       "id": 31,
-      "bangla": "হে আল্লাহ, আমাকে এমন কাজের পথ দেখাও যা হালাল রিজিক আনবে",
-      "transliteration": "Allahumma ihdini li'amal ar-rizq al-halal",
+      "bangla": "আল্লাহুম্মা ইহদিনি লি আমালির রিজকিল হালাল",
+      "transliteration": "Allahumma ihdini li'amalir rizqil halal",
       "translation": "হে আল্লাহ! আমাকে এমন কাজের পথ দেখান যা হালাল রিজিক এনে দেয়"
     },
     {
       "id": 32,
-      "bangla": "হে আল্লাহ, আমাকে এ দুনিয়া ও আখিরাতে দরিদ্রতা থেকে রক্ষা করো",
-      "transliteration": "Allahumma ikfini faqra ad-dunya wal-akhirah",
+      "bangla": "আল্লাহুম্মা ইকফিনি ফাকরা দুনিয়া ওয়াল আখিরাহ",
+      "transliteration": "Allahumma ikfini faqra dunya wal akhirah",
       "translation": "হে আল্লাহ! আমাকে দুনিয়া ও আখিরাতের দারিদ্র্য থেকে রক্ষা করুন"
     },
     {
       "id": 33,
-      "bangla": "হে আল্লাহ, আমার হৃদয় ও শরীরে শক্তি বৃদ্ধি করো",
-      "transliteration": "Allahumma zidni quwwah fi qalbi wa jasadi",
+      "bangla": "আল্লাহুম্মা যিদনি কুওয়াতান ফি কালবি ওয়া জাসাদি",
+      "transliteration": "Allahumma zidni quwwatan fi qalbi wa jasadi",
       "translation": "হে আল্লাহ! আমার অন্তর ও দেহে শক্তি বৃদ্ধি করুন"
     },
     {
       "id": 34,
-      "bangla": "হে আল্লাহ, আমাকে যা শিখিয়েছো তা আমার উপকারে লাগাও",
+      "bangla": "আল্লাহুম্মা আল্লিমনি মা ইয়ানফাউনি ওয়ানফানি বিমা আল্লামতানি",
       "transliteration": "Allahumma 'allimni ma yanfa'uni wa anfa'ni bima 'allamtani",
       "translation": "হে আল্লাহ! আমাকে এমন জ্ঞান শিক্ষা দিন যা উপকারে আসে এবং যা শিখিয়েছেন তা দ্বারা উপকৃত করুন"
     },
     {
       "id": 35,
-      "bangla": "হে আমার প্রভু, আমার উপর দয়া করো এবং আমার রিজিক বাড়িয়ে দাও",
+      "bangla": "রাব্বি ইরহামনি ওয়া ওয়াসসি আলাইয়্যা রিজকি",
       "transliteration": "Rabbi irhamni wa wassi' 'alayya rizqi",
       "translation": "হে আমার পালনকর্তা! আমার প্রতি দয়া করুন এবং আমার রিজিক প্রশস্ত করুন"
     },
     {
       "id": 36,
-      "bangla": "হে আল্লাহ, আমাকে তাদের মধ্যে কর যারা শ্রেষ্ঠ কথাটি শুনে তা মেনে চলে",
-      "transliteration": "Allahumma ij'alni min alladhina yastami'una al-qawla fayattabi'una ahsanahu",
+      "bangla": "আল্লাহুম্মা ইজআলনি মিনাল্লাযিনা ইয়াস্তামিউনাল কাওলা ফায়াত্তাবিউনা আহসানাহু",
+      "transliteration": "Allahumma ij'alni minalladhina yastami'unal qawla fayattabi'una ahsanahu",
       "translation": "হে আল্লাহ! আমাকে তাদের অন্তর্ভুক্ত করুন যারা কথা শোনে এবং তার উত্তমটি অনুসরণ করে"
     },
     {
       "id": 37,
-      "bangla": "হে আল্লাহ, আমি শয়তানের ফুসফুস থেকে তোমার কাছে আশ্রয় চাই",
-      "transliteration": "Allahumma inni a'udhu bika min hamazat ash-shayatin",
+      "bangla": "আল্লাহুম্মা ইন্নি আউযুবিকা মিন হামাজাতিশ শায়াতীন",
+      "transliteration": "Allahumma inni a'udhu bika min hamazatish shayatin",
       "translation": "হে আল্লাহ! আমি আপনার কাছে শয়তানের কুমন্ত্রণা থেকে আশ্রয় চাই"
     },
     {
       "id": 38,
-      "bangla": "হে আল্লাহ, আমি তোমার কাছে নম্র হৃদয় ও উপকারী জ্ঞান চাই",
+      "bangla": "আল্লাহুম্মা ইন্নি আসআলুকা কালবান খাশিয়ান ওয়া ইলমান নাফিআন",
       "transliteration": "Allahumma inni as'aluka qalban khashi'an wa 'ilman nafi'an",
       "translation": "হে আল্লাহ! আমি আপনার কাছে বিনম্র অন্তর ও উপকারী জ্ঞান প্রার্থনা করি"
     },
     {
       "id": 39,
-      "bangla": "হে প্রভু, আমাকে হালাল ও সৎ রিজিক দাও এবং তা বরকত দাও",
-      "transliteration": "Ya Rabb, arzuqni halal-an tayyiban wa barik li fihi",
+      "bangla": "ইয়া রাব্বি আরজুকনি হালালান তাইয়্যিবান ওয়া বারিক লি ফিহি",
+      "transliteration": "Ya Rabbi arzuqni halalan tayyiban wa barik li fihi",
       "translation": "হে আমার পালনকর্তা! আমাকে হালাল ও পবিত্র রিজিক দিন এবং তাতে বরকত দিন"
     },
     {
       "id": 40,
-      "bangla": "হে আল্লাহ, আমাকে তোমাকে স্মরণ, কৃতজ্ঞতা ও সুন্দর উপাসনা করার সাহায্য দাও",
+      "bangla": "আল্লাহুম্মা আইন্নি আলা যিকরিকা ওয়া শুকরিকা ওয়া হুসনি ইবাদাতিকা",
       "transliteration": "Allahumma a'inni 'ala dhikrika wa shukrika wa husni 'ibadatika",
       "translation": "হে আল্লাহ! আমাকে আপনার স্মরণ, কৃতজ্ঞতা এবং সুন্দর ইবাদত করার তাওফিক দিন"
     },
     {
       "id": 41,
-      "bangla": "হে আল্লাহ, জ্ঞানকে আমার হৃদয়ে আলোকিত করো",
-      "transliteration": "Allahumma ij'al al-'ilma nuran fi qalbi",
+      "bangla": "আল্লাহুম্মা ইজআলিল ইলমা নূরান ফি কালবি",
+      "transliteration": "Allahumma ij'alil 'ilma nuran fi qalbi",
       "translation": "হে আল্লাহ! জ্ঞানকে আমার অন্তরে আলো করুন"
     },
     {
       "id": 42,
-      "bangla": "হে আল্লাহ, আমার জন্য প্রশস্ত রিজিকের দরজা খুলে দাও",
-      "transliteration": "Allahumma iftah 'alayya baban rizq wasi'an",
+      "bangla": "আল্লাহুম্মা ইফতাহ আলাইয়্যা বাবান রিজকিন ওয়াসিয়ান",
+      "transliteration": "Allahumma iftah 'alayya baban rizqin wasi'an",
       "translation": "হে আল্লাহ! আমার জন্য প্রশস্ত রিজিকের দরজা খুলে দিন"
     },
     {
       "id": 43,
-      "bangla": "হে আল্লাহ, আমাকে তোমার প্রেম ও তোমাকে ভালোবাসে তাদের প্রেম দাও",
+      "bangla": "আল্লাহুম্মা আরজুকনি হুব্বাকা ওয়া হুব্বা মান ইউহিব্বুক",
       "transliteration": "Allahumma arzuqni hubbaka wa hubba man yuhibbuk",
       "translation": "হে আল্লাহ! আমাকে আপনার ভালোবাসা এবং যারা আপনাকে ভালোবাসে তাদের ভালোবাসা দান করুন"
     },
     {
       "id": 44,
-      "bangla": "হে আল্লাহ, আমাকে দরিদ্রতা ও লজ্জা থেকে বাঁচাও",
-      "transliteration": "Allahumma ajirni min al-faqr wal-dhill",
+      "bangla": "আল্লাহুম্মা আজিরনি মিনাল ফাকরি ওয়াজ যিল্লি",
+      "transliteration": "Allahumma ajirni minal faqri wadh dhilli",
       "translation": "হে আল্লাহ! আমাকে দারিদ্র্য ও লাঞ্ছনা থেকে রক্ষা করুন"
     },
     {
       "id": 45,
-      "bangla": "হে আল্লাহ, আমার কাজকে তোমার প্রতি খাঁটি করো এবং আমাকে আরও জ্ঞান দাও",
-      "transliteration": "Allahumma ij'al 'amali khalisan li wajhika wa zidni 'ilman",
+      "bangla": "আল্লাহুম্মা ইজআল আমালি খালিসান লি ওয়াজহিকা ওয়া যিদনি ইলমা",
+      "transliteration": "Allahumma ij'al 'amali khalisan li wajhika wa zidni 'ilma",
       "translation": "হে আল্লাহ! আমার আমলকে আপনার সন্তুষ্টির জন্য খাঁটি করুন এবং আমাকে জ্ঞান বৃদ্ধি করুন"
     },
     {
       "id": 46,
-      "bangla": "হে আল্লাহ, আমার হৃদয়কে জ্ঞান ও দয়া দাও",
+      "bangla": "আল্লাহুম্মা আরজুকনি হিকমাহ ওয়া রাহমাহ ফি কালবি",
       "transliteration": "Allahumma arzuqni hikmah wa rahmah fi qalbi",
       "translation": "হে আল্লাহ! আমার অন্তরে প্রজ্ঞা ও রহমত দান করুন"
     },
     {
       "id": 47,
-      "bangla": "হে আল্লাহ, তোমার জ্ঞান ও ফজলে আমাকে লোকজনের ওপর নির্ভরশীল করে দিও না",
-      "transliteration": "Allahumma aghnini 'an an-nas bi'ilmika wa fadhlika",
+      "bangla": "আল্লাহুম্মা আগনি আন্নাস বিইলমিকা ওয়া ফাদলিকা",
+      "transliteration": "Allahumma aghnini 'anin nas bi'ilmika wa fadhlika",
       "translation": "হে আল্লাহ! আপনার জ্ঞান ও অনুগ্রহ দ্বারা আমাকে মানুষের মুখাপেক্ষী করবেন না"
     },
     {
       "id": 48,
-      "bangla": "হে আল্লাহ, পরীক্ষা কালে স্থিরতা ও শক্তি দাও",
-      "transliteration": "Allahumma inni as'aluka ath-thabata wal-quwwata fi al-imtihan",
+      "bangla": "আল্লাহুম্মা ইন্নি আসআলুকা সসাবাতা ওয়াল কুওয়াতা ফিল ইমতিহান",
+      "transliteration": "Allahumma inni as'aluka thabata wal quwwata fil imtihan",
       "translation": "হে আল্লাহ! আমি আপনার কাছে পরীক্ষার সময় ধৈর্য ও শক্তি প্রার্থনা করি"
     },
     {
       "id": 49,
-      "bangla": "হে আল্লাহ, আমার রিজিককে তোমার কাছ থেকেই করো এবং আমাকে অন্যায় যারা ভুগে তাদের মধ্যে করো না",
-      "transliteration": "Allahumma ij'al rizqi mimman 'indaka wa la taj'alni mimman tazlimuhum",
+      "bangla": "আল্লাহুম্মা ইজআল রিজকি মিমমান ইন্ডিকা ওয়া লা তাজআলনি মিমমান তাজলিমুহুম",
+      "transliteration": "Allahumma ij'al rizqi mimman 'indika wa la taj'alni mimman tazlimuhum",
       "translation": "হে আল্লাহ! আমার রিজিককে আপনার কাছ থেকে দিন এবং আমাকে জালিমদের অন্তর্ভুক্ত করবেন না"
     },
     {
       "id": 50,
-      "bangla": "হে আল্লাহ, আমাকে উপকারী জ্ঞান দাও এবং আমাকে সফল জ্ঞান বৃদ্ধি করো",
+      "bangla": "আল্লাহুম্মা আল্লিমনি মা ইয়ানফাউনি ওয়া যিদনি ইলমান নাফিআন",
       "transliteration": "Allahumma 'allimni ma yanfa'uni wa zidni 'ilman nafi'an",
       "translation": "হে আল্লাহ! আমাকে উপকারী জ্ঞান শিক্ষা দিন এবং উপকারী জ্ঞান বৃদ্ধি করুন"
     },
     {
       "id": 51,
-      "bangla": "হে প্রেমময় ও পরিদানকারী, তোমার ফজল থেকে আমাকে রিজিক দাও",
-      "transliteration": "Ya Wadud, Ya Razzaq, arzuqni min fadlika",
+      "bangla": "ইয়া ওয়াদুদু ইয়া রাজ্জাকু আরজুকনি মিন ফাদলিকা",
+      "transliteration": "Ya Wadudu Ya Razzaqu arzuqni min fadhlika",
       "translation": "হে ভালোবাসাময়, হে রিজিকদাতা! আপনার অনুগ্রহ থেকে আমাকে রিজিক দিন"
     },
     {
       "id": 52,
-      "bangla": "হে আল্লাহ, আমাকে দরিদ্রতা থেকে বাঁচাও এবং আমার দরকার দূর করো",
-      "transliteration": "Allahumma janbibni al-faqr wa ab'id 'anni al-hajah",
+      "bangla": "আল্লাহুম্মা জান্নিবনিল ফাকরা ওয়া আবিদ আন্নিল হাজাহ",
+      "transliteration": "Allahumma jannibnil faqra wa ab'id 'annil hajah",
       "translation": "হে আল্লাহ! আমাকে দারিদ্র্য থেকে দূরে রাখুন এবং আমার অভাব দূর করুন"
     },
     {
       "id": 53,
-      "bangla": "হে আল্লাহ, আমাকে বরকতময় রিজিক দাও এবং তা আমার জন্য বরকত করো",
-      "transliteration": "Allahumma arzuqni rizqan mubarak-an wa barik li fihi",
+      "bangla": "আল্লাহুম্মা আরজুকনি রিজকান মুবারাকান ওয়া বারিক লি ফিহি",
+      "transliteration": "Allahumma arzuqni rizqan mubarakan wa barik li fihi",
       "translation": "হে আল্লাহ! আমাকে বরকতময় রিজিক দিন এবং তাতে বরকত দিন"
     },
     {
       "id": 54,
-      "bangla": "হে আল্লাহ, আমাকে তোমার সন্তুষ্টিতে শক্তিশালী কর",
-      "transliteration": "Allahumma ij'alni min al-qawiyyin fi mardatik",
+      "bangla": "আল্লাহুম্মা ইজআলনি মিনাল কাওয়িয়্যিনা ফি মারযাতিকা",
+      "transliteration": "Allahumma ij'alni minal qawiyyina fi mardatika",
       "translation": "হে আল্লাহ! আমাকে আপনার সন্তুষ্টি অর্জনে শক্তিশালীদের অন্তর্ভুক্ত করুন"
     },
     {
       "id": 55,
-      "bangla": "হে আল্লাহ, আমাদের এমন জ্ঞান দাও যা আমাদের ধর্মীয় ও পার্থিব জীবনকে সঠিক পথে পরিচালিত করে",
+      "bangla": "আল্লাহুম্মা আতিনা ইলমান ইয়াহদিনা ইলা সিরাতিকাল মুস্তাকিম",
       "transliteration": "Allahumma atina 'ilman yahdina ila siratikal mustaqim",
       "translation": "হে আল্লাহ! আমাদের এমন জ্ঞান দিন যা আমাদেরকে সরল পথে পরিচালিত করে"
     }
