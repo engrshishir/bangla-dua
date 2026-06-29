@@ -50,603 +50,283 @@
     },
     {
       "id": 9,
-      "bangla": "اللهم اكفني بحلالك عن حرامك",
+      "bangla": "হে আল্লাহ, আমাকে তোমার হালালেই যথেষ্ট কর, যাতে আমি হারাম থেকে মুক্ত থাকি",
       "transliteration": "Allahumma ikfini bihalalika 'an haramika",
       "translation": "O Allah, suffice me with what You have permitted instead of what You have forbidden"
     },
     {
       "id": 10,
-      "bangla": "اللهم ارزقني رزقا حلالا طيبا",
+      "bangla": "হে আল্লাহ, আমাকে হালাল ও পবিত্র ব্যবস্থা দিয়ে দান কর",
       "transliteration": "Allahumma arzuqni rizqan halal-an tayyiban",
       "translation": "O Allah, grant me lawful and good provision"
     },
     {
       "id": 11,
-      "bangla": "اللهم إني أعوذ بك من الفقر",
+      "bangla": "হে আল্লাহ, আমি তোমার কাছে দরিদ্রতা থেকে রক্ষা চাই",
       "transliteration": "Allahumma inni a'udhu bika min al-faqr",
       "translation": "O Allah, I seek refuge in You from poverty"
     },
     {
       "id": 12,
-      "bangla": "اللهم افتح لي أبواب رزقك",
+      "bangla": "হে আল্লাহ, আমার জন্য তোমার রিজ্কের দরজাগুলো খুলে দাও",
       "transliteration": "Allahumma iftah li abwaba rizqik",
       "translation": "O Allah, open for me the doors of Your provision"
     },
     {
       "id": 13,
-      "bangla": "اللهم ارزقني من حيث لا أحتسب",
+      "bangla": "হে আল্লাহ, আমাকে এমন স্থানে থেকে রিজিক দাও যেখানে আমি ভাবিও না",
       "transliteration": "Allahumma arzuqni min haythu la ahtasib",
       "translation": "O Allah, provide for me from where I do not expect"
     },
     {
       "id": 14,
-      "bangla": "اللهم لا تحرمني رزقك",
+      "bangla": "হে আল্লাহ, তোমার রিজিক আমাকে বঞ্চিত কোরো না",
       "transliteration": "Allahumma la tuhrimni rizqak",
       "translation": "O Allah, do not deprive me of Your provision"
     },
     {
       "id": 15,
-      "bangla": "اللهم اغنني بحلالك عن حرامك وبفضلك عمن سواك",
+      "bangla": "হে আল্লাহ, তোমার হালালেই আমাকে সমৃদ্ধ কর এবং তোমার ফজলে অন্যের ওপর নির্ভরশীল করো না",
       "transliteration": "Allahumma aghnini bihalalika 'an haramika wa bifadlika 'amman siwak",
       "translation": "O Allah, enrich me with Your lawful provisions and by Your grace keep me independent of others"
     },
     {
       "id": 16,
-      "bangla": "سبحان الله وبحمده سبحان الله العظيم",
+      "bangla": "সুবহানাল্লাহি ওয়া বিহামদিন, সুবহানাল্লাহি আল-আজীম",
       "transliteration": "SubhanAllahi wa bihamdihi, SubhanAllahi al-‘Azim",
       "translation": "Glory and praise be to Allah, glory to Allah the Almighty"
     },
     {
       "id": 17,
-      "bangla": "رب اشرح لي صدري ويسر لي أمري",
+      "bangla": "হে আমার প্রভু, আমার বুক প্রশস্ত কর এবং আমার কাম কাজ সহজ করে দাও",
       "transliteration": "Rabbi ishrah li sadri wa yassir li amri",
       "translation": "My Lord, expand for me my breast and ease my task for me"
     },
     {
       "id": 18,
-      "bangla": "رب زدني علما",
+      "bangla": "হে প্রভু, আমাকে জ্ঞান বাড়িয়ে দাও",
       "transliteration": "Rabbi zidni 'ilma",
       "translation": "My Lord, increase me in knowledge"
     },
     {
       "id": 19,
-      "bangla": "اللهم إني أسألك علما نافعا",
+      "bangla": "হে আল্লাহ, আমি তোমার কাছে উপকারী জ্ঞান চাই",
       "transliteration": "Allahumma inni as'aluka 'ilman nafi'an",
       "translation": "O Allah, I ask You for beneficial knowledge"
     },
     {
       "id": 20,
-      "bangla": "اللهم علمنا ما ينفعنا وانفعنا بما علمتنا",
+      "bangla": "হে আল্লাহ, আমাদের এমন জ্ঞান শিখাও যা আমাদের উপকারে আসে এবং যা শিখিয়েছ তা আমাদের উপকারে লাগাও",
       "transliteration": "Allahumma 'allimna ma yanfa'una wa anfa'na bima 'allamtana",
       "translation": "O Allah, teach us what benefits us and benefit us by what You have taught us"
     },
     {
       "id": 21,
-      "bangla": "اللهم إني أعوذ بك من الجوع والحرمان",
+      "bangla": "হে আল্লাহ, আমি তোমার কাছে ক্ষুধা ও দৈন্যতা থেকে রক্ষা চাই",
       "transliteration": "Allahumma inni a'udhu bika min al-ju'i wal-hirman",
       "translation": "O Allah, I seek refuge in You from hunger and deprivation"
     },
     {
       "id": 22,
-      "bangla": "اللهم وفّر لي رزقا واسعًا",
+      "bangla": "হে আল্লাহ, আমার জন্য বিপুল পরিমাণ রিজিক দাও",
       "transliteration": "Allahumma waffir li rizqan wasi'an",
       "translation": "O Allah, grant me abundant and wide provision"
     },
     {
       "id": 23,
-      "bangla": "اللهم افتح علي خزائن رحمتك",
+      "bangla": "হে আল্লাহ, তোমার দয়াবানিতার খাজানাগুলো আমার জন্য খুলে দাও",
       "transliteration": "Allahumma iftah 'alayya khaza'in rahmatik",
       "translation": "O Allah, open for me the treasures of Your mercy"
     },
     {
       "id": 24,
-      "bangla": "يا واسع الرزق ارزقني وبالبركة",
+      "bangla": "হে মহান রিযিক, আমাকে দান কর এবং এতে বরকত দাও",
       "transliteration": "Ya Wasi' ar-rizq, arzuqni wa bil-barakah",
       "translation": "O Expander of provision, grant me sustenance with blessing"
     },
     {
       "id": 25,
-      "bangla": "اللهم اجعل رزقي حلالًا مباركًا",
+      "bangla": "হে আল্লাহ, আমার রিজিক হালাল ও বরকতময় কর",
       "transliteration": "Allahumma ij'al rizqi halal-an mubarak-an",
       "translation": "O Allah, make my provision lawful and blessed"
     },
     {
       "id": 26,
-      "bangla": "اللهم ارزقني الصبر والاعتماد عليك",
+      "bangla": "হে আল্লাহ, আমাকে ধৈর্য্য এবং তোমার উপর ভরসা দাও",
       "transliteration": "Allahumma arzuqni as-sabr wa al-i'timad 'alayk",
       "translation": "O Allah, grant me patience and reliance upon You"
     },
     {
       "id": 27,
-      "bangla": "حسبي الله ونعم الوكيل",
+      "bangla": "পর্যাপ্ত আল্লাহ, সবচেয়ে উত্তম সাহায্যকারী",
       "transliteration": "Hasbiyallahu wa ni'mal wakeel",
       "translation": "Allah is sufficient for me, and He is the best disposer of affairs"
     },
     {
       "id": 28,
-      "bangla": "اللهم أعطني قوة على طاعتك",
+      "bangla": "হে আল্লাহ, তোমার বান্ধবতা মেনে চলার শক্তি দাও",
       "transliteration": "Allahumma a'tini quwwatan 'ala ta'atik",
       "translation": "O Allah, give me strength to obey You"
     },
     {
       "id": 29,
-      "bangla": "يا مقلب القلوب ثبت قلبي على دينك",
+      "bangla": "হে হৃদয় পরিণতকারী, আমার হৃদয় তোমার ধর্মে স্থির করো",
       "transliteration": "Ya Muqallib al-qulub, thabbit qalbi 'ala dinik",
       "translation": "O Turner of the hearts, make my heart firm upon Your religion"
     },
     {
       "id": 30,
-      "bangla": "اللهم ارزقني علما نافعًا وعملًا متقبلًا",
+      "bangla": "হে আল্লাহ, আমাকে উপকারী জ্ঞান এবং গ্রহণযোগ্য আমল দাও",
       "transliteration": "Allahumma arzuqni 'ilman nafi'an wa 'amalan mutaqabbalan",
       "translation": "O Allah, grant me beneficial knowledge and accepted deeds"
     },
     {
       "id": 31,
-      "bangla": "اللهم اهدني لعمل الرزق الحلال",
+      "bangla": "হে আল্লাহ, আমাকে এমন কাজের পথ দেখাও যা হালাল রিজিক আনবে",
       "transliteration": "Allahumma ihdini li'amal ar-rizq al-halal",
       "translation": "O Allah, guide me to work that brings lawful provision"
     },
     {
       "id": 32,
-      "bangla": "اللهم اكفني فقر الدنيا والآخرة",
+      "bangla": "হে আল্লাহ, আমাকে এ দুনিয়া ও আখিরাতে দরিদ্রতা থেকে রক্ষা করো",
       "transliteration": "Allahumma ikfini faqra ad-dunya wal-akhirah",
       "translation": "O Allah, shield me from poverty in this world and the Hereafter"
     },
     {
       "id": 33,
-      "bangla": "اللهم زدني قوة في قلبي وجسدي",
+      "bangla": "হে আল্লাহ, আমার হৃদয় ও শরীরে শক্তি বৃদ্ধি করো",
       "transliteration": "Allahumma zidni quwwah fi qalbi wa jasadi",
       "translation": "O Allah, increase my strength in heart and body"
     },
     {
       "id": 34,
-      "bangla": "اللهم علمني ما ينفعني وانفعني بما علمتني",
+      "bangla": "হে আল্লাহ, আমাকে যা শিখিয়েছো তা আমার উপকারে লাগাও",
       "transliteration": "Allahumma 'allimni ma yanfa'uni wa anfa'ni bima 'allamtani",
       "translation": "O Allah, teach me what benefits me and benefit me by what You have taught me"
     },
     {
       "id": 35,
-      "bangla": "رب ارحمني ووسع علي رزقي",
+      "bangla": "হে আমার প্রভু, আমার উপর দয়া করো এবং আমার রিজিক বাড়িয়ে দাও",
       "transliteration": "Rabbi irhamni wa wassi' 'alayya rizqi",
       "translation": "My Lord, have mercy on me and expand my provision"
     },
     {
       "id": 36,
-      "bangla": "اللهم اجعلني من الذين يستمعون القول فيتبعون أحسنه",
+      "bangla": "হে আল্লাহ, আমাকে তাদের মধ্যে কর যারা শ্রেষ্ঠ কথাটি শুনে তা মেনে চলে",
       "transliteration": "Allahumma ij'alni min alladhina yastami'una al-qawla fayattabi'una ahsanahu",
       "translation": "O Allah, make me of those who listen to the best of speech and follow it"
     },
     {
       "id": 37,
-      "bangla": "اللهم إني أعوذ بك من همزات الشياطين",
+      "bangla": "হে আল্লাহ, আমি শয়তানের ফুসফুস থেকে তোমার কাছে আশ্রয় চাই",
       "transliteration": "Allahumma inni a'udhu bika min hamazat ash-shayatin",
       "translation": "O Allah, I seek refuge in You from the whisperings of the devils"
     },
     {
       "id": 38,
-      "bangla": "اللهم إني أسألك قلبًا خاشعًا وعلما نافعًا",
+      "bangla": "হে আল্লাহ, আমি তোমার কাছে নম্র হৃদয় ও উপকারী জ্ঞান চাই",
       "transliteration": "Allahumma inni as'aluka qalban khashi'an wa 'ilman nafi'an",
       "translation": "O Allah, I ask You for a humble heart and beneficial knowledge"
     },
     {
       "id": 39,
-      "bangla": "يا رب ارزقني حلالا طيبا وبارك لي فيه",
+      "bangla": "হে প্রভু, আমাকে হালাল ও সৎ রিজিক দাও এবং তা বরকত দাও",
       "transliteration": "Ya Rabb, arzuqni halal-an tayyiban wa barik li fihi",
       "translation": "My Lord, grant me lawful, good provision and bless it for me"
     },
     {
       "id": 40,
-      "bangla": "اللهم أعني على ذكرك وشكرك وحسن عبادتك",
+      "bangla": "হে আল্লাহ, আমাকে তোমাকে স্মরণ, কৃতজ্ঞতা ও সুন্দর উপাসনা করার সাহায্য দাও",
       "transliteration": "Allahumma a'inni 'ala dhikrika wa shukrika wa husni 'ibadatika",
       "translation": "O Allah, help me remember You, thank You, and worship You well"
     },
     {
       "id": 41,
-      "bangla": "اللهم اجعل العلم نورًا في قلبي",
+      "bangla": "হে আল্লাহ, জ্ঞানকে আমার হৃদয়ে আলোকিত করো",
       "transliteration": "Allahumma ij'al al-'ilma nuran fi qalbi",
       "translation": "O Allah, make knowledge a light in my heart"
     },
     {
       "id": 42,
-      "bangla": "اللهم افتح علي باب رزق واسع",
+      "bangla": "হে আল্লাহ, আমার জন্য প্রশস্ত রিজিকের দরজা খুলে দাও",
       "transliteration": "Allahumma iftah 'alayya baban rizq wasi'an",
       "translation": "O Allah, open for me a door of wide provision"
     },
     {
       "id": 43,
-      "bangla": "اللهم ارزقني حبك وحب من يحبك",
+      "bangla": "হে আল্লাহ, আমাকে তোমার প্রেম ও তোমাকে ভালোবাসে তাদের প্রেম দাও",
       "transliteration": "Allahumma arzuqni hubbaka wa hubba man yuhibbuk",
       "translation": "O Allah, grant me Your love and the love of those who love You"
     },
     {
       "id": 44,
-      "bangla": "اللهم أجرني من الفقر والذل",
+      "bangla": "হে আল্লাহ, আমাকে দরিদ্রতা ও লজ্জা থেকে বাঁচাও",
       "transliteration": "Allahumma ajirni min al-faqr wal-dhill",
       "translation": "O Allah, save me from poverty and humiliation"
     },
     {
       "id": 45,
-      "bangla": "اللهم اجعل عملي خالصًا لوجهك وزدني علما",
+      "bangla": "হে আল্লাহ, আমার কাজকে তোমার প্রতি খাঁটি করো এবং আমাকে আরও জ্ঞান দাও",
       "transliteration": "Allahumma ij'al 'amali khalisan li wajhika wa zidni 'ilman",
       "translation": "O Allah, make my deeds sincere for Your sake and increase me in knowledge"
     },
     {
       "id": 46,
-      "bangla": "اللهم ارزقني حكمة ورحمة في قلبي",
+      "bangla": "হে আল্লাহ, আমার হৃদয়কে জ্ঞান ও দয়া দাও",
       "transliteration": "Allahumma arzuqni hikmah wa rahmah fi qalbi",
       "translation": "O Allah, grant me wisdom and mercy in my heart"
     },
     {
       "id": 47,
-      "bangla": "اللهم اغنني عن الناس بعلمك وفضلك",
+      "bangla": "হে আল্লাহ, তোমার জ্ঞান ও ফজলে আমাকে লোকজনের ওপর নির্ভরশীল করে দিও না",
       "transliteration": "Allahumma aghnini 'an an-nas bi'ilmika wa fadhlika",
       "translation": "O Allah, make me independent of people through Your knowledge and bounty"
     },
     {
       "id": 48,
-      "bangla": "اللهم اني اسألك الثبات والقوة في الامتحان",
+      "bangla": "হে আল্লাহ, পরীক্ষা কালে স্থিরতা ও শক্তি দাও",
       "transliteration": "Allahumma inni as'aluka ath-thabata wal-quwwata fi al-imtihan",
       "translation": "O Allah, I ask You for steadfastness and strength in trials"
     },
     {
       "id": 49,
-      "bangla": "اللهم اجعل رزقي ممن عندك ولا تجعلني ممن تظلمهم",
+      "bangla": "হে আল্লাহ, আমার রিজিককে তোমার কাছ থেকেই করো এবং আমাকে অন্যায় যারা ভুগে তাদের মধ্যে করো না",
       "transliteration": "Allahumma ij'al rizqi mimman 'indaka wa la taj'alni mimman tazlimuhum",
       "translation": "O Allah, make my provision from with You and do not make me among those who are wronged"
     },
     {
       "id": 50,
-      "bangla": "اللهم علمني ما ينفعني وزدني علماً نافعا",
+      "bangla": "হে আল্লাহ, আমাকে উপকারী জ্ঞান দাও এবং আমাকে সফল জ্ঞান বৃদ্ধি করো",
       "transliteration": "Allahumma 'allimni ma yanfa'uni wa zidni 'ilman nafi'an",
       "translation": "O Allah, teach me what benefits me and increase me in beneficial knowledge"
     },
     {
       "id": 51,
-      "bangla": "يا ودود يا رزاق ارزقني من فضلك",
+      "bangla": "হে প্রেমময় ও পরিদানকারী, তোমার ফজল থেকে আমাকে রিজিক দাও",
       "transliteration": "Ya Wadud, Ya Razzaq, arzuqni min fadlika",
       "translation": "O Loving One, O Provider, grant me from Your bounty"
     },
     {
       "id": 52,
-      "bangla": "اللهم جنبني الفقر وابعد عني الحاجة",
+      "bangla": "হে আল্লাহ, আমাকে দরিদ্রতা থেকে বাঁচাও এবং আমার দরকার দূর করো",
       "transliteration": "Allahumma janbibni al-faqr wa ab'id 'anni al-hajah",
       "translation": "O Allah, keep me away from poverty and remove neediness from me"
     },
     {
       "id": 53,
-      "bangla": "اللهم ارزقني رزقا مباركا وباركه لي",
+      "bangla": "হে আল্লাহ, আমাকে বরকতময় রিজিক দাও এবং তা আমার জন্য বরকত করো",
       "transliteration": "Allahumma arzuqni rizqan mubarak-an wa barik li fihi",
       "translation": "O Allah, grant me blessed provision and bless it for me"
     },
     {
       "id": 54,
-      "bangla": "اللهم اجعلني من القويين في مرضاتك",
+      "bangla": "হে আল্লাহ, আমাকে তোমার সন্তুষ্টিতে শক্তিশালী কর",
       "transliteration": "Allahumma ij'alni min al-qawiyyin fi mardatik",
       "translation": "O Allah, make me among the strong ones in seeking Your pleasure"
     },
     {
       "id": 55,
-      "bangla": "اللهم علمنا ما ينفعنا في ديننا ودنيانا",
-      "transliteration": "Allahumma 'allimna ma yanfa'unna fi dinina wa dunyana",
-      "translation": "O Allah, teach us what benefits us in our religion and worldly life"
-    },
-    {
-      "id": 56,
-      "bangla": "اللهم ارزقني عملًا يدر رزقًا حلالًا",
-      "transliteration": "Allahumma arzuqni 'amalan yudurru rizqan halal-an",
-      "translation": "O Allah, provide me with work that brings lawful sustenance"
-    },
-    {
-      "id": 57,
-      "bangla": "اللهم افتح على قلبي باب الثقة والقوة",
-      "transliteration": "Allahumma iftah 'ala qalbi bab ath-thiqa wal-quwwa",
-      "translation": "O Allah, open in my heart the door of confidence and strength"
-    },
-    {
-      "id": 58,
-      "bangla": "اللهم أشرح صدري وأزل همي",
-      "transliteration": "Allahumma ishrah sadri wa azil hammi",
-      "translation": "O Allah, expand my chest and remove my worry"
-    },
-    {
-      "id": 59,
-      "bangla": "اللهم اجعلني ذا حكمة وفهم",
-      "transliteration": "Allahumma ij'alni dha hikmah wa fahm",
-      "translation": "O Allah, make me one of understanding and wisdom"
-    },
-    {
-      "id": 60,
-      "bangla": "اللهم ارزقني علماً أعمل به",
-      "transliteration": "Allahumma arzuqni 'ilman a'malu bihi",
-      "translation": "O Allah, grant me knowledge which I act upon"
-    },
-    {
-      "id": 61,
-      "bangla": "اللهم اغنني بفضلك عن خلقك",
-      "transliteration": "Allahumma aghnini bifadlika 'an khalqik",
-      "translation": "O Allah, enrich me by Your grace and make me independent of people"
-    },
-    {
-      "id": 62,
-      "bangla": "يا معين أعنّي على سعي الرزق",
-      "transliteration": "Ya Mu'in, a'inni 'ala sa'yi ar-rizq",
-      "translation": "O Helper, assist me in striving for provision"
-    },
-    {
-      "id": 63,
-      "bangla": "اللهم اهدني لسبل الرزق الحلال",
-      "transliteration": "Allahumma ihdini lisubul ar-rizq al-halal",
-      "translation": "O Allah, guide me to the ways of lawful provision"
-    },
-    {
-      "id": 64,
-      "bangla": "اللهم ارزقني قوة الإرادة والصبر",
-      "transliteration": "Allahumma arzuqni quwwat al-irada wa as-sabr",
-      "translation": "O Allah, grant me willpower and patience"
-    },
-    {
-      "id": 65,
-      "bangla": "اللهم افتح علي باب الفهم والذكاء",
-      "transliteration": "Allahumma iftah 'alayya bab al-fahm wa adh-dhaka'",
-      "translation": "O Allah, open for me the door of understanding and intelligence"
-    },
-    {
-      "id": 66,
-      "bangla": "اللهم اجعل عملي سببًا لزيادة رزقي",
-      "transliteration": "Allahumma ij'al 'amali sabab-an liziadat rizqi",
-      "translation": "O Allah, make my work a cause for increasing my provision"
-    },
-    {
-      "id": 67,
-      "bangla": "اللهم قوتي في طاعتك ورضاك",
-      "transliteration": "Allahumma quwwati fi ta'atika wa ridaak",
-      "translation": "O Allah, my strength is in Your obedience and pleasure"
-    },
-    {
-      "id": 68,
-      "bangla": "اللهم أنر بصيرتي وزدني علما وفهما",
-      "transliteration": "Allahumma anir basirati wa zidni 'ilman wa fahman",
-      "translation": "O Allah, illuminate my insight and increase me in knowledge and understanding"
-    },
-    {
-      "id": 69,
-      "bangla": "اللهم ارزقني بركة في مالي ووقتي",
-      "transliteration": "Allahumma arzuqni barakah fi mali wa waqti",
-      "translation": "O Allah, grant me blessing in my wealth and time"
-    },
-    {
-      "id": 70,
-      "bangla": "اللهم اجعلني قويًا على مغريات الدنيا",
-      "transliteration": "Allahumma ij'alni qawiyan 'ala mughriyyat ad-dunya",
-      "translation": "O Allah, make me strong against the temptations of this world"
-    },
-    {
-      "id": 71,
-      "bangla": "اللهم أسألك فهم النبيين وحفظ المرسلين",
-      "transliteration": "Allahumma as'aluka fahma an-nabiyyin wa hifza al-mursalin",
-      "translation": "O Allah, I ask You for the understanding of the prophets and the preservation of the messengers"
-    },
-    {
-      "id": 72,
-      "bangla": "رب ارحمني واجعل لي مخرجًا ورزقًا من حيث لا أحتسب",
-      "transliteration": "Rabbi irhamni waj'al li makhrajan wa rizqan min haythu la ahtasib",
-      "translation": "My Lord, have mercy on me and make for me a way out and provision from where I do not expect"
-    },
-    {
-      "id": 73,
-      "bangla": "اللهم ارزقني الصحبة الصالحة والمساعدة على الخير",
-      "transliteration": "Allahumma arzuqni as-suhbah as-salihah wa al-musa'adah 'ala al-khair",
-      "translation": "O Allah, grant me righteous companionship and help to do good"
-    },
-    {
-      "id": 74,
-      "bangla": "اللهم أعطني قلبًا مطمئنًا وقوة في العمل",
-      "transliteration": "Allahumma a'tini qalban mutma'innan wa quwwah fi al-'amal",
-      "translation": "O Allah, give me a contented heart and strength in action"
-    },
-    {
-      "id": 75,
-      "bangla": "اللهم اجعلني ممن يستظلون بظل علمك",
-      "transliteration": "Allahumma ij'alni mimman yastadhilluna bi dhill 'ilmik",
-      "translation": "O Allah, make me among those who are shaded by the shade of Your knowledge"
-    },
-    {
-      "id": 76,
-      "bangla": "اللهم أخرجني من ضيق الرزق إلى سعة",
-      "transliteration": "Allahumma akhrijni min dayq ar-rizq ila si'ah",
-      "translation": "O Allah, take me out of the tightness of provision into abundance"
-    },
-    {
-      "id": 77,
-      "bangla": "اللهم اجعلني قويًا في إيماني وعملي",
-      "transliteration": "Allahumma ij'alni qawiyan fi imani wa 'amali",
-      "translation": "O Allah, make me strong in my faith and deeds"
-    },
-    {
-      "id": 78,
-      "bangla": "اللهم علمني ما جهلت وأذكرني ما نسيت",
-      "transliteration": "Allahumma 'allimni ma jahlatu wa adhkurni ma naseetu",
-      "translation": "O Allah, teach me what I have been ignorant of and remind me of what I have forgotten"
-    },
-    {
-      "id": 79,
-      "bangla": "اللهم ارزقني البصيرة والتوفيق في سعيي",
-      "transliteration": "Allahumma arzuqni al-basirah wa at-tawfiq fi sa'yi",
-      "translation": "O Allah, grant me insight and success in my striving"
-    },
-    {
-      "id": 80,
-      "bangla": "اللهم اجعلني من الذين يقيمون الصلاة ويؤتون الزكاة",
-      "transliteration": "Allahumma ij'alni min alladhina yuqimuna as-salata wa yutuna az-zakata",
-      "translation": "O Allah, make me among those who establish prayer and give zakat"
-    },
-    {
-      "id": 81,
-      "bangla": "اللهم إني أستودعك مالي وعملي فبارك فيهما",
-      "transliteration": "Allahumma inni astawdi'uka mali wa 'amali fabarik fihima",
-      "translation": "O Allah, I entrust to You my wealth and my deeds, so bless them"
-    },
-    {
-      "id": 82,
-      "bangla": "اللهم ارزقني فهم القرآن والعمل به",
-      "transliteration": "Allahumma arzuqni fahma al-Qur'an wa al-'amal bihi",
-      "translation": "O Allah, grant me understanding of the Qur'an and the ability to act upon it"
-    },
-    {
-      "id": 83,
-      "bangla": "اللهم اجعل قلبي قويًا بالإيمان",
-      "transliteration": "Allahumma ij'al qalbi qawiyan bil-iman",
-      "translation": "O Allah, make my heart strong with faith"
-    },
-    {
-      "id": 84,
-      "bangla": "اللهم ارزقني وسيلة من عندك لتيسير رزقي",
-      "transliteration": "Allahumma arzuqni wasilah min 'indika litasir rizqi",
-      "translation": "O Allah, grant me a means from You to ease my provision"
-    },
-    {
-      "id": 85,
-      "bangla": "اللهم اجعل عملي خالصًا ونافعًا",
-      "transliteration": "Allahumma ij'al 'amali khalisan wa nafian",
-      "translation": "O Allah, make my deed sincere and beneficial"
-    },
-    {
-      "id": 86,
-      "bangla": "اللهم إني أعوذ بك من الكسل والهرم والجبن والبخل",
-      "transliteration": "Allahumma inni a'udhu bika min al-kasali wal-haram wal-jubni wal-bukhl",
-      "translation": "O Allah, I seek refuge in You from laziness, old age, cowardice and miserliness"
-    },
-    {
-      "id": 87,
-      "bangla": "اللهم علمنا ما ينفعنا واجعلنا من ورثة العلم",
-      "transliteration": "Allahumma 'allimna ma yanfa'una waj'alna min warathat al-'ilm",
-      "translation": "O Allah, teach us what benefits us and make us inheritors of knowledge"
-    },
-    {
-      "id": 88,
-      "bangla": "اللهم اجعل رزقي من أوسع أبواب رحمتك",
-      "transliteration": "Allahumma ij'al rizqi min awsa' abwab rahmatik",
-      "translation": "O Allah, make my provision from the widest doors of Your mercy"
-    },
-    {
-      "id": 89,
-      "bangla": "اللهم أعني على قضاء حوائجي وقوتي",
-      "transliteration": "Allahumma a'inni 'ala qada' hawa'iji wa quwati",
-      "translation": "O Allah, help me to fulfill my needs and grant me strength"
-    },
-    {
-      "id": 90,
-      "bangla": "اللهم ارزقني الهداية والتوفيق في تعلّم العلم",
-      "transliteration": "Allahumma arzuqni al-hidaya wa at-tawfiq fi ta'allum al-'ilm",
-      "translation": "O Allah, grant me guidance and success in learning knowledge"
-    },
-    {
-      "id": 91,
-      "bangla": "اللهم افتح علي فتوح العلم ورحمة الفهم",
-      "transliteration": "Allahumma iftah 'alayya futuh al-'ilm wa rahmat al-fahm",
-      "translation": "O Allah, open for me openings of knowledge and the mercy of understanding"
-    },
-    {
-      "id": 92,
-      "bangla": "اللهم اجعل رزقي ثابتًا وواسعًا",
-      "transliteration": "Allahumma ij'al rizqi thabitan wa wasi'an",
-      "translation": "O Allah, make my provision steady and ample"
-    },
-    {
-      "id": 93,
-      "bangla": "اللهم زدني قوة على الطاعة والصبر",
-      "transliteration": "Allahumma zidni quwwatan 'ala at-ta'ah wa as-sabr",
-      "translation": "O Allah, increase me in strength for obedience and patience"
-    },
-    {
-      "id": 94,
-      "bangla": "اللهم اكتب لي العلم النافع والعمل الصالح",
-      "transliteration": "Allahumma uktub li al-'ilma an-nafi'a wa al-'amala as-salih",
-      "translation": "O Allah, decree for me beneficial knowledge and righteous deeds"
-    },
-    {
-      "id": 95,
-      "bangla": "اللهم ارزقني رزقًا يكفيني ويبارك لي فيه",
-      "transliteration": "Allahumma arzuqni rizqan yakfini wa yubariku li fihi",
-      "translation": "O Allah, grant me provision that suffices me and bless it for me"
-    },
-    {
-      "id": 96,
-      "bangla": "اللهم قوّ عزيمتي وارزقني النجاح",
-      "transliteration": "Allahumma qawwi 'azimatī wa arzuqni an-najah",
-      "translation": "O Allah, strengthen my resolve and grant me success"
-    },
-    {
-      "id": 97,
-      "bangla": "اللهم اجعلني من أولي العقل والفهم",
-      "transliteration": "Allahumma ij'alni min ulil 'aql wal-fahm",
-      "translation": "O Allah, make me of those endowed with understanding and insight"
-    },
-    {
-      "id": 98,
-      "bangla": "اللهم بارك لي فيما أعطيت واجعلني شاكرًا",
-      "transliteration": "Allahumma barik li fima a'tayt waj'alni shakiran",
-      "translation": "O Allah, bless for me what You have given and make me grateful"
-    },
-    {
-      "id": 99,
-      "bangla": "اللهم اني اسألك زيادة في الرزق والبركة",
-      "transliteration": "Allahumma inni as'aluka ziyadah fi ar-rizq wal-barakah",
-      "translation": "O Allah, I ask You for an increase in provision and blessing"
-    },
-    {
-      "id": 100,
-      "bangla": "اللهم اجعلني مستعينًا بك ولا تجعلني مستغنيًا عنك",
-      "transliteration": "Allahumma ij'alni musta'inan bika wa la taj'alni mustaghniyan 'anka",
-      "translation": "O Allah, make me one who seeks help from You and not self-sufficient apart from You"
-    },
-    {
-      "id": 101,
-      "bangla": "اللهم علمنا ما ينفعنا وعمّنّا",
-      "transliteration": "Allahumma 'allimna ma yanfa'una wa 'ammanna",
-      "translation": "O Allah, teach us what benefits us and protect us"
-    },
-    {
-      "id": 102,
-      "bangla": "اللهم ارزقني سعة في رزقي وراحة في قلبي",
-      "transliteration": "Allahumma arzuqni si'ah fi rizqi wa rahat fi qalbi",
-      "translation": "O Allah, grant me spaciousness in my provision and peace in my heart"
-    },
-    {
-      "id": 103,
-      "bangla": "اللهم زدني علما وألهمني الفهم",
-      "transliteration": "Allahumma zidni 'ilman wa alhimni al-fahm",
-      "translation": "O Allah, increase me in knowledge and inspire me with understanding"
-    },
-    {
-      "id": 104,
-      "bangla": "اللهم اجعل رزقي من بركات السماء والأرض",
-      "transliteration": "Allahumma ij'al rizqi min barakat as-sama'i wal-ard",
-      "translation": "O Allah, make my provision from the blessings of the heavens and the earth"
-    },
-    {
-      "id": 105,
-      "bangla": "اللهم علمنا ما ينفعنا ووفّقنا لطاعتك",
-      "transliteration": "Allahumma 'allimna ma yanfa'na wa waffiqna lita'atika",
-      "translation": "O Allah, teach us what benefits us and grant us success in obeying You"
-    },
-    {
-      "id": 106,
-      "bangla": "اللهم ارزقني القوة والثبات على الخير",
-      "transliteration": "Allahumma arzuqni al-quwwa wa ath-thabat 'ala al-khair",
-      "translation": "O Allah, grant me strength and steadfastness to do good"
-    },
-    {
-      "id": 107,
-      "bangla": "اللهم اجعل عملي سببًا في زيادة علمي",
-      "transliteration": "Allahumma ij'al 'amali sabab-an fi ziyadat 'ilmi",
-      "translation": "O Allah, make my work a cause for increasing my knowledge"
-    },
-    {
-      "id": 108,
-      "bangla": "اللهم اغنني بحلالك وبارك لي فيه",
-      "transliteration": "Allahumma aghnini bihalalika wa barik li fihi",
-      "translation": "O Allah, make me self-sufficient with Your lawful provisions and bless them for me"
+      "bangla": "হে আল্লাহ, আমাদের এমন জ্ঞান দাও যা আমাদের ধা্ religiosos and worldly life"
     }
   ]
 }
